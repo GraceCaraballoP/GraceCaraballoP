@@ -41,3 +41,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Grace%20Caraballo%20Pose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grace-caraballo-pose/)](https://www.linkedin.com/in/grace-caraballo-pose)
 [![Gmail Badge](https://img.shields.io/badge/-grace.caraballop@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:grace.caraballop@gmail.com)](mailto:grace.caraballop@gmail.com)
+![](https://komarev.com/ghpvc/?username=GraceCaraballoP&color=ff9224)
